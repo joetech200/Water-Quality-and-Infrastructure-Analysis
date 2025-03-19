@@ -2,7 +2,7 @@
 # 🌍 Maji Ndogo: Basic Water Access  
 
 ## 📌 Project Overview  
-Maji Ndogo is a **data-driven analysis** focused on understanding **water accessibility challenges** in underserved communities. Using **Spreadsheets, sql and Power BI**, this project uncovers inefficiencies, corruption, and operational gaps that hinder fair water distribution. The insights derived aim to support **data-backed decision-making** for sustainable water distribution and management.  
+Maji Ndogo is a **data-driven analysis** focused on understanding **water accessibility challenges** in underserved communities. Using **sql and Power BI**, this project uncovers inefficiencies, corruption, and operational gaps that hinder fair water distribution. The insights derived aim to support **data-backed decision-making** for sustainable water distribution and management.  
 
 ## 🎯 Objectives  
 - Analyze water distribution trends to identify supply-demand gaps.  
