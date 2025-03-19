@@ -11,8 +11,7 @@ Maji Ndogo is a **data-driven analysis** focused on understanding **water access
 - Develop visual dashboards for stakeholders to monitor water access metrics.  
 
 ## 🛠️ Tools & Technologies  
-- **SQL:** Data cleaning, querying, and fraud detection in water distribution records.  
-- **Spreadsheets (Excel/Google Sheets):** Data exploration, pivot tables, and trend analysis.  
+- **SQL:** Data cleaning, querying, and fraud detection in water distribution records.    
 - **Power BI:** Interactive dashboards for data visualization and reporting.  
 
 ## 🔍 Key Findings  
