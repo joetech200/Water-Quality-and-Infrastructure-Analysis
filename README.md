@@ -32,3 +32,4 @@ This project highlights the power of **data analytics in social impact** by driv
 ## 📸 Dashboard Preview  
 ![Dashboard Preview](Dashboard%20(image)/National.png)
 ![Dashboard Preview](Project-2%20PowerBI/project2%20National%20.png)
+![Dashboard Preview](Project-2%20PowerBI/Project2National.png)
