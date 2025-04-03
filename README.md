@@ -31,4 +31,4 @@ Power BI dashboards were designed to provide **real-time tracking** of water sup
 This project highlights the power of **data analytics in social impact** by driving **accountability, transparency, and efficiency** in resource distribution. 
 ## 📸 Dashboard Preview  
 ![Dashboard Preview](Dashboard%20(image)/National.png)
-![Dashboard Preview](Project2%20PowerBI/National.png)
+![Dashboard Preview](Project2%20PowerBI/project2National.png)
